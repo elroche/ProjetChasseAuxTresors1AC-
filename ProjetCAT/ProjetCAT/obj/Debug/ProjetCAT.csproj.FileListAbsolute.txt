@@ -1,0 +1,7 @@
+C:\Users\elear\source\repos\ProjetCAT\ProjetCAT\bin\Debug\ProjetCAT.exe.config
+C:\Users\elear\source\repos\ProjetCAT\ProjetCAT\bin\Debug\ProjetCAT.exe
+C:\Users\elear\source\repos\ProjetCAT\ProjetCAT\bin\Debug\ProjetCAT.pdb
+C:\Users\elear\source\repos\ProjetCAT\ProjetCAT\obj\Debug\ProjetCAT.csproj.AssemblyReference.cache
+C:\Users\elear\source\repos\ProjetCAT\ProjetCAT\obj\Debug\ProjetCAT.csproj.CoreCompileInputs.cache
+C:\Users\elear\source\repos\ProjetCAT\ProjetCAT\obj\Debug\ProjetCAT.exe
+C:\Users\elear\source\repos\ProjetCAT\ProjetCAT\obj\Debug\ProjetCAT.pdb
